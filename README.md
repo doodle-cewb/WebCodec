@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WebCodec
+- 👋 Hi, I’m @CewB
 - 👀 I’m interested in in making fun coding projects
 - 🌱 I’m currently a junior high school student
 
